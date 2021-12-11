@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.9e137b3c.chunk.css",
-    "main.js": "/static/js/main.89fd6cd5.chunk.js",
-    "main.js.map": "/static/js/main.89fd6cd5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9fcde60a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9fcde60a.js.map",
+    "main.js": "/static/js/main.3720ca19.chunk.js",
+    "main.js.map": "/static/js/main.3720ca19.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ea85ee5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ea85ee5.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
-    "static/js/2.c7b485f7.chunk.js": "/static/js/2.c7b485f7.chunk.js",
-    "static/js/2.c7b485f7.chunk.js.map": "/static/js/2.c7b485f7.chunk.js.map",
-    "static/js/3.31aadab1.chunk.js": "/static/js/3.31aadab1.chunk.js",
-    "static/js/3.31aadab1.chunk.js.map": "/static/js/3.31aadab1.chunk.js.map",
+    "static/js/2.662dd014.chunk.js": "/static/js/2.662dd014.chunk.js",
+    "static/js/2.662dd014.chunk.js.map": "/static/js/2.662dd014.chunk.js.map",
+    "static/js/3.edbc33bf.chunk.js": "/static/js/3.edbc33bf.chunk.js",
+    "static/js/3.edbc33bf.chunk.js.map": "/static/js/3.edbc33bf.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
     "static/css/main.9e137b3c.chunk.css.map": "/static/css/main.9e137b3c.chunk.css.map",
-    "static/js/2.c7b485f7.chunk.js.LICENSE.txt": "/static/js/2.c7b485f7.chunk.js.LICENSE.txt",
+    "static/js/2.662dd014.chunk.js.LICENSE.txt": "/static/js/2.662dd014.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/adobe-xd.fa7a22d2.svg": "/static/media/adobe-xd.fa7a22d2.svg",
     "static/media/adobeaudition.dd56aeda.svg": "/static/media/adobeaudition.dd56aeda.svg",
@@ -77,7 +77,7 @@
     "static/media/five.3fc9b49e.svg": "/static/media/five.3fc9b49e.svg",
     "static/media/flutter.a87a000d.svg": "/static/media/flutter.a87a000d.svg",
     "static/media/four.bd70304d.svg": "/static/media/four.bd70304d.svg",
-    "static/media/fw11-262-Rohit.54f9d323.pdf": "/static/media/fw11-262-Rohit.54f9d323.pdf",
+    "static/media/fw10-182-Shashi.54f9d323.pdf": "/static/media/fw10-182-Shashi.54f9d323.pdf",
     "static/media/gcp.89993b8e.svg": "/static/media/gcp.89993b8e.svg",
     "static/media/gimp.e90f970a.svg": "/static/media/gimp.e90f970a.svg",
     "static/media/girl1.6884bb72.svg": "/static/media/girl1.6884bb72.svg",
@@ -106,6 +106,7 @@
     "static/media/mysql.61d16d64.svg": "/static/media/mysql.61d16d64.svg",
     "static/media/nextJS.330fb71c.svg": "/static/media/nextJS.330fb71c.svg",
     "static/media/nginx.63e0789f.svg": "/static/media/nginx.63e0789f.svg",
+    "static/media/node.abfaef34.png": "/static/media/node.abfaef34.png",
     "static/media/npm.0c374912.svg": "/static/media/npm.0c374912.svg",
     "static/media/numpy.91d932ca.svg": "/static/media/numpy.91d932ca.svg",
     "static/media/nuxtJS.6dcfb7a9.svg": "/static/media/nuxtJS.6dcfb7a9.svg",
@@ -153,10 +154,10 @@
     "static/media/yellowTheme-girl.a7ec3ad5.svg": "/static/media/yellowTheme-girl.a7ec3ad5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9fcde60a.js",
+    "static/js/runtime-main.5ea85ee5.js",
     "static/css/2.19627560.chunk.css",
-    "static/js/2.c7b485f7.chunk.js",
+    "static/js/2.662dd014.chunk.js",
     "static/css/main.9e137b3c.chunk.css",
-    "static/js/main.89fd6cd5.chunk.js"
+    "static/js/main.3720ca19.chunk.js"
   ]
 }
