@@ -5,7 +5,7 @@
     'Javascript',
     'CSS',
     'React',
-    'Node JS',
+    'node',
     'mongoDB',
     'NPM',
     'Git',

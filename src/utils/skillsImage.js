@@ -76,6 +76,7 @@ import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 
 import canva from '../assets/svg/skills/canva.svg'
+import node from "../assets/svg/skills/node.png";
 
 
 export const skillsImage = (skill) => {
@@ -110,6 +111,8 @@ export const skillsImage = (skill) => {
             return nuxtJS;
         case 'react':
             return react;
+            case 'node':
+                return node;
         case 'svelte':
             return svelte;
         case 'typescript':

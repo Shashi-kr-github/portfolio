@@ -4,9 +4,9 @@ export const socialsData = {
   linkedIn: "https://www.linkedin.com/in/shashi-kumar381996/",
 
   codepen: "https://codepen.io",
-  twitter: "https://twitter.com/rht_16_",
+  twitter: "https://twitter.com/@ShashiK28909950",
 
-  blogger: "https://medium.com",
+  blogger: "",
   medium: "https://medium.com",
   stackOverflow: "https://stackoverflow.com",
 };
