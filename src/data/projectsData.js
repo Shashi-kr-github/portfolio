@@ -16,7 +16,7 @@ export const projectsData = [
       " Upgrad is an Edtech platform, We built this website using HTML | JAVASCRIPT | CSS, for team colloboration we used github regularly, we were 3 member in the team, indivisual has given there task and within the 4 days we deployed some main functionality like login,signup,coursecheck page etc. This was my first ever project, i really learned a lot from this.",
     tags: ["HTML", "CSS", "javaScript"],
     code: "https://github.com/tonyPooyappallil/upgradCloneProject.git",
-    demo: "https://drive.google.com/file/d/1EPogPb8TUXOOrncNpLQKLldb4WCLuVrK/view?usp=sharing",
+    demo: "https://drive.google.com/file/d/11Ym3d68SAWb59MunFhrLPtKXyzoeEfYa/view?usp=drivesdk",
     image: "https://miro.medium.com/max/1400/1*g9XiJfAHoz11S83k54JAHA.png",
   },
   {
