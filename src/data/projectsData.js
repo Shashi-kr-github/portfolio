@@ -24,7 +24,7 @@ export const projectsData = [
     projectDesc:
       "This project is a food sharing and tracking system that allows users to donate the food to NGO or at hunger spot.",
     tags: ["ReactJs", "HTML", "CSS", "javaScript"],
-    code: "https://github.com/mansisindhu/seva-the-food-sharing-frontend",
+    code: "https://seva-the-food-sharing-frontend.vercel.app/",
     demo: "https://masai-course.s3.ap-south-1.amazonaws.com/users/1727/submissions/227362/403136/984b27ca0bd6b5a77fad1ba4fb988d4c/seva_construct%20video",
     image: two,
   },
